@@ -8,4 +8,4 @@
 - **High-risk prevalence: 92.1%** (NNP-II calibrated)
 
 ## Protocol
-[ETHIOPRECISION_L2_Protocol_v2.0.pdf]
+[ETHIOPRECISION_L2_Protocol.docx]
